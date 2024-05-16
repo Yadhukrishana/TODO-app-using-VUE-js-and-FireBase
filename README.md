@@ -1,29 +1,4 @@
-<<<<<<< HEAD
-# todo
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # TODO-app-using-VUE-js-and-FireBase
 
 This Vue.js component is a simple todo list application that allows users to add, delete, and mark todos as complete or incomplete. It integrates with Firestore for data storage and retrieval.
